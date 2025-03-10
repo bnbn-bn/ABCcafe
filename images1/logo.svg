@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 480 106.3">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1, .st2 {
+        stroke: #422331;
+        stroke-width: 1.3px;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st3 {
+        fill: #fffef2;
+      }
+
+      .st2, .st4 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: #422331;
+        font-family: HiraKakuPro-W6-83pv-RKSJ-H, 'Hiragino Kaku Gothic Pro';
+        font-size: 8px;
+      }
+
+      .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        stroke: #94c465;
+      }
+
+      .st8, .st7 {
+        fill: #231815;
+      }
+
+      .st4 {
+        stroke: #231815;
+        stroke-width: 1.8px;
+      }
+
+      .st7 {
+        font-family: Philosopher-Bold, Philosopher;
+        font-size: 72px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="st0" y="0" width="480" height="106.3"/>
+  <path class="st4" d="M291.1,158.7"/>
+  <path class="st4" d="M285.6,152.8"/>
+  <path class="st4" d="M285.6,152.8"/>
+  <g>
+    <circle class="st1" cx="50.8" cy="50.3" r="37.9"/>
+    <path class="st2" d="M72.9,42.7c0-.2,0-.3.1-.5l1.8-9.1H27.1l7,36.2h33.6c.4-2,.9-4.4,1.4-6.9,6.3,1,12.3-2.4,13.4-7.5,1.1-5.2-3-10.8-9.4-12.1ZM79.7,54.5c-.9,3.8-5.8,6.6-10.6,4.8l3.1-14.1c5.2.5,8.5,5.4,7.5,9.3Z"/>
+    <g class="st6">
+      <text class="st5" transform="translate(29.8 29.5)"><tspan x="0" y="0">ABC Cafe</tspan></text>
+    </g>
+    <path class="st8" d="M27.3,25.9"/>
+  </g>
+  <path class="st3" d="M68.8,197.1c-2.2.9-2.5,5.9-1.3,9.4,1.7,4.8,6.9,8.8,9.3,7.6,2.3-1.2,2.1-7.7-.7-12.1-1.7-2.7-5.2-5.9-7.4-4.9h0Z"/>
+  <g class="st6">
+    <text class="st7" transform="translate(105.2 75.3)"><tspan x="0" y="0">ABC Cafe</tspan></text>
+  </g>
+</svg>
